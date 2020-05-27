@@ -85,4 +85,6 @@
 
 ------
 
-[<= Back](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/readme.md)
+[<= Back](https://andrewschastlivcev.github.io/Netlify-doc/)
+
+[<= Back github](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/readme.md)
