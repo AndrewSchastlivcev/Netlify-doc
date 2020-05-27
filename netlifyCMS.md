@@ -21,7 +21,7 @@
 
 ## URL доступа к админ панели Netlify [https://sparkybit.netlify.app/admin/#](https://sparkybit.netlify.app/admin/#)
 
-![](.\images\login_admin.png)
+![](images\login_admin.png)
 
 ![](.\images\Login_admin2.png)
 
