@@ -21,13 +21,19 @@
 
 ## URL доступа к админ панели Netlify [https://sparkybit.netlify.app/admin/#](https://sparkybit.netlify.app/admin/#)
 
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/login_admin.png)
+
 ![](images\login_admin.png)
+
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/login_admin2.png)
 
 ![](.\images\Login_admin2.png)
 
 1. Регистрация нового пользователя 
 2. Вход используя учетные данные пользователя  которые храняться в  в админ панели Netlify => [Netlify.md](C:\Users\Admin\OneDrive\Desktop\manual\netlify.md)
 3. Запрос сброса пароля
+
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/editor.png)
 
 ![](.\images\editor.png)
 
@@ -43,7 +49,11 @@
 
    `Pages` Статические страницы - контент основных страниц вебсайта, их колличество не изменяеться в редакторе 
 
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/pages.png)
+
 ![](.\images\pages.png)
+
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/content.png)
 
 ![](.\images\content.png)
 

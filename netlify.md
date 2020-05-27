@@ -4,13 +4,19 @@
 
 Авторизоваться с помощью email 
 
-![](.\images\login.png)
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/login.png)
 
-![](.\images\netlify_controls.png)
+![](images\login.png)
+
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/netlify_controls.png)
 
 выбрать проэкт sparkybit
 
-![](.\images\identy.png)
+![](images\netlify_controls.png)
+
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/identy.png)
+
+![](images\identy.png)
 
 > `Identity` хранит информацию  о юзерах и  `Git Gateway`
 >
@@ -32,7 +38,11 @@
 
 7. При клике на кадого юзера, осуществляеться переход к его оциям
 
-   ![](.\images\user.png)
+   
+   
+   ![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/user.png)
+   
+   ![](images\user.png)
 
 - Сброс пароля 
 
