@@ -25,12 +25,12 @@
 
 ![](images\login_admin.png)
 
-![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/login_admin2.png)
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/Login_admin2.png)
 
 ![](.\images\Login_admin2.png)
 
 1. Регистрация нового пользователя 
-2. Вход используя учетные данные пользователя  которые храняться в  в админ панели Netlify => [Netlify.md](C:\Users\Admin\OneDrive\Desktop\manual\netlify.md)
+2. Вход используя учетные данные пользователя  которые храняться в  в админ панели Netlify => [Netlify.md](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/netlify.md)
 3. Запрос сброса пароля
 
 ![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/editor.png)
@@ -45,13 +45,15 @@
 
 4. Категории контента расположенного на вебсайте. 
 
-   `Careers` + ` Blog` Динамически измениямый контент, каждая новая вакансия или статья добавляет новую страницу
+   ![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/pages.png)
 
+   ![](.\images\pages.png)
+   
+   `Careers` + ` Blog` Динамически измениямый контент, каждая новая вакансия или статья добавляет новую страницу
+   
    `Pages` Статические страницы - контент основных страниц вебсайта, их колличество не изменяеться в редакторе 
 
-![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/pages.png)
-
-![](.\images\pages.png)
+Для редактирования нужно выбрать одну из страниц
 
 ![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/content.png)
 
@@ -67,8 +69,20 @@
 
    ### Host Sparkybit => [https://sparkybit.com/]
 
+   либо можно узнать по статусу данного бейджа
+   
+   
+   
+   [![Netlify Status](https://api.netlify.com/api/v1/badges/21983560-bab7-479d-a137-5751ac6f11f4/deploy-status)](https://app.netlify.com/sites/sparkybit/deploys)
+   
+   
+   
+   
+   
    ```
    Структура всех полей для редактирования страниц изменяться только разработчиком
    ```
 
-   
+------
+
+[<= Back](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/readme.md)

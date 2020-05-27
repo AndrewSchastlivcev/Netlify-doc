@@ -8,9 +8,9 @@
 
 ![](images\login.png)
 
-![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/netlify_controls.png)
+Выбрать проэкт sparkybit
 
-выбрать проэкт sparkybit
+![](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/images/netlify_controls.png)
 
 ![](images\netlify_controls.png)
 
@@ -28,7 +28,7 @@
 
 2. Лог и управление деплоем ( минимальный набор как в TeamCity )
 
-3. Управления авторизацией
+3. Управления авторизацией ( Identity )
 
 4. Все настройки проэкта
 
@@ -50,4 +50,6 @@
 
 - удаление профиля юзера
 
-  
+------
+
+[<= Back](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/readme.md)
