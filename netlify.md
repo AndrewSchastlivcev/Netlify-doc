@@ -4,13 +4,13 @@
 
 Авторизоваться с помощью email 
 
-![](C:\Users\Admin\OneDrive\Desktop\manual\images\login.png)
+![](.\images\login.png)
 
-![](C:\Users\Admin\OneDrive\Desktop\manual\images\netlify_controls.png)
+![](.\images\netlify_controls.png)
 
 выбрать проэкт sparkybit
 
-![](C:\Users\Admin\OneDrive\Desktop\manual\images\identy.png)
+![](.\images\identy.png)
 
 > `Identity` хранит информацию  о юзерах и  `Git Gateway`
 >
@@ -32,7 +32,7 @@
 
 7. При клике на кадого юзера, осуществляеться переход к его оциям
 
-   ![](C:\Users\Admin\OneDrive\Desktop\manual\images\user.png)
+   ![](.\images\user.png)
 
 - Сброс пароля 
 

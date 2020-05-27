@@ -1,4 +1,4 @@
-# Админ панель Netlify CMS `редактирование контентавебсайта`
+# Админ панель Netlify CMS `редактирование контента вебсайта`
 
 ------
 
@@ -21,15 +21,15 @@
 
 ## URL доступа к админ панели Netlify [https://sparkybit.netlify.app/admin/#](https://sparkybit.netlify.app/admin/#)
 
-![](C:\Users\Admin\OneDrive\Desktop\manual\images\login_admin.png)
+![](.\images\login_admin.png)
 
-![](C:\Users\Admin\OneDrive\Desktop\manual\images\Login_admin2.png)
+![](.\images\Login_admin2.png)
 
 1. Регистрация нового пользователя 
 2. Вход используя учетные данные пользователя  которые храняться в  в админ панели Netlify => [Netlify.md](C:\Users\Admin\OneDrive\Desktop\manual\netlify.md)
 3. Запрос сброса пароля
 
-![](C:\Users\Admin\OneDrive\Desktop\manual\images\editor.png)
+![](.\images\editor.png)
 
 1. Переход к быстрому добавлению вакансии / статьи в блог
 
@@ -43,9 +43,9 @@
 
    `Pages` Статические страницы - контент основных страниц вебсайта, их колличество не изменяеться в редакторе 
 
-![](C:\Users\Admin\OneDrive\Desktop\manual\images\pages.png)
+![](.\images\pages.png)
 
-![](C:\Users\Admin\OneDrive\Desktop\manual\images\content.png)
+![](.\images\content.png)
 
 1. В этом разделе находяться все поля которые нужно заполнить для редактирования / создания новой страницы
 
