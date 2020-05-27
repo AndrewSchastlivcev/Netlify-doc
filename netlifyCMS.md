@@ -29,7 +29,7 @@
 
 ![](.\images\Login_admin2.png)
 
-1. Регистрация нового пользователя 
+1. Регистрация нового пользователя ( отключено в целях безопасности, добавление пользователя только по приглашению через email [Netlify.md](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/netlify.md) )
 2. Вход используя учетные данные пользователя  которые храняться в  в админ панели Netlify => [Netlify.md](https://github.com/AndrewSchastlivcev/Netlify-doc/blob/master/netlify.md)
 3. Запрос сброса пароля
 
